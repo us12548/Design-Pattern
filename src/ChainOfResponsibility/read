@@ -1,0 +1,2 @@
+demo地址：http://blog.csdn.net/lmb55/article/details/51052866
+类似于组合模式，对一个请求，在链式处理事件中查找，符合条件的那个事件来处理当前请求

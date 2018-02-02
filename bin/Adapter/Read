@@ -1,0 +1,5 @@
+demo地址：http://blog.csdn.net/zhangjg_blog/article/details/18735243
+实际例子： http://blog.csdn.net/zhangjg_blog/article/details/18779607
+其实就是类似于偷梁换柱，表面上是调用原来的接口，但是适配器偷偷在内部给你换了
+
+适配器模式：原来的接口与调用方式不变的（不用改变原来已有的代码），通过新建适配器来达到扩展的目的
